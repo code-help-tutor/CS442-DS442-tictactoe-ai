@@ -1,0 +1,7 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+-i https://pypi.org/simple
+
+pygame==2.1.2
+
